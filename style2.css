@@ -1,0 +1,21 @@
+body {
+  background: goldenrod;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+.header {
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+.nav ul {
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+  margin: 20px;
+
+}
